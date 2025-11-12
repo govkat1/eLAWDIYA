@@ -1,0 +1,4 @@
+# This is a placeholder for the YOLOv8n ONNX model file
+# Replace this with the actual yolov8n.onnx file (~27MB)
+# See README.md for instructions on how to obtain the model
+# File should be named exactly: yolov8n.onnx
